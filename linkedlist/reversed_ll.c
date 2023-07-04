@@ -1,5 +1,6 @@
 // REVERSED LINKED LIST
-#include <stdio.h> #include <stdlib.h>
+#include <stdio.h> 
+#include <stdlib.h>
 /* a node of the doubly linked list */ struct Node {
  int data;
 struct Node* next; struct Node* prev;
