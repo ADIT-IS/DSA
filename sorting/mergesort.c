@@ -1,5 +1,6 @@
 //MERGE SORT
-#include<stdio.h> int arr[50];
+#include<stdio.h>
+int arr[50];
 {
 int val1= mid-low+1, val2= high-mid;
 void merge(int low, int mid, int high)
