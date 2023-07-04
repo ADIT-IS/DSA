@@ -1,5 +1,6 @@
 // QUICK SORT USING LINKED LIST
-#include <stdio.h> #include <stdlib.h>
+#include <stdio.h> 
+#include <stdlib.h>
 // Creating structure struct Node
 {
 int data;
