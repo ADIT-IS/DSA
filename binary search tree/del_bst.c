@@ -1,5 +1,6 @@
 // DELETION IN BST
-#include<stdio.h> #include<stdlib.h>
+#include<stdio.h> 
+#include<stdlib.h>
 // Node for Binary Search Tree construction struct node
 {
 int data;
